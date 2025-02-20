@@ -22,26 +22,3 @@ Uma página de receita desenvolvida durante as aulas sobre Fundamentos do HTML e
 <p align="center">
   <img alt="Preview do projeto desenvolvido." src="./.github/preview.png" width="100%">
 </p>
-
-## 🚀 Tecnologias
-<span>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-</span>
-<br><br>
-
-Nesse projeto desenvolvemos uma página de receita para um Cupcake de café com chantilly.
